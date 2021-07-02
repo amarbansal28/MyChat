@@ -22,6 +22,6 @@ button{
 }
 
 span{
-  padding: 5px 15px;
-  background-color: aqua;
+  margin-right: 15px;
+  font-size: 10px;
 }
